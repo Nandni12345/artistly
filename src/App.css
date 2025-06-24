@@ -1,0 +1,40 @@
+:root {
+  --background: 0 0% 100%;
+  --foreground: 240 4.8% 10%;
+
+  --primary: 330 100% 70%; /* Pink */
+  --primary-foreground: 0 0% 100%;
+
+  --secondary: 50 100% 60%; /* Yellow */
+  --secondary-foreground: 0 0% 0%;
+
+  --border: 330 100% 85%;
+  --input: 50 100% 85%;
+  --ring: 330 100% 65%;
+
+  --muted: 0 0% 90%;
+  --muted-foreground: 240 4.8% 40%;
+
+  --accent: 330 100% 75%;
+  --accent-foreground: 0 0% 100%;
+
+  --popover: 0 0% 100%;
+  --popover-foreground: 240 4.8% 10%;
+
+  --card: 0 0% 100%;
+  --card-foreground: 240 4.8% 10%;
+
+  --sidebar-background: 50 100% 90%;
+  --sidebar-foreground: 330 100% 30%;
+  --sidebar-primary: 330 100% 70%;
+  --sidebar-primary-foreground: 0 0% 100%;
+  --sidebar-accent: 50 100% 60%;
+  --sidebar-accent-foreground: 0 0% 0%;
+  --sidebar-border: 50 100% 80%;
+  --sidebar-ring: 330 100% 65%;
+
+  --destructive: 0 100% 70%;
+  --destructive-foreground: 0 0% 100%;
+
+  --radius: 0.5rem;
+}
